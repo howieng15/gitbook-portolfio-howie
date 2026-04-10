@@ -2,80 +2,135 @@
 
 ## 1. Project Overview
 
-This application is designed to help users monitor, manage, and optimize the performance of their solar energy systems directly on their mobile devices. The core goal is to transform complex technical data into intuitive, actionable insights, helping users save on costs and effectively reduce their environmental footprint.
+This project focuses on designing a mobile application for a renewable energy company that provides intelligent solar power solutions for agricultural and commercial users. Once the hardware (Inverter, Battery, and Datalogger) is installed, customers use this app to monitor and optimize their energy performance.
 
-* **Role:** UI/UX Designer
-* **Tool:** Figma
-* **Type of project:** Design Challenge
+* **Role**: UX/UI Designer.
+* **Project type**: Design challenge.
+* **Platform**: Mobile App (iOS/Android).
 
-***
+<figure><img src="../../.gitbook/assets/Smart_solar_energy_202604101428.jpeg" alt=""><figcaption></figcaption></figure>
 
-## 2. Challenges & User Pain Points
 
-Based on the analysis of user needs, homeowners often face the following hurdles:
-
-* **Information Overload:** \
-  Technical metrics regarding power flow (from solar panels, battery storage, and the grid) are often difficult for non-expert users to interpret.
-* **Lack of Predictability:** \
-  Users struggle to know when the system is underperforming or when to prioritize charging the storage battery.
-* **Difficult Value Measurement:** \
-  Calculating actual money saved or CO2 emissions reduced is rarely presented in a clear, relatable way.
 
 ***
 
-## 3.  Design Solutions & Key Features
+## 2. The Challenge & Goals
 
-The design focuses on a data-centric interface that remains aesthetic and user-friendly:
+**The Challenge**: \
+Solar energy data is often technical and difficult for non-expert users to interpret.&#x20;
 
-### A. Home Screen: The Control Center
+**The Goals:**
 
-* **Visual Energy Flow:** \
-  Displays the system's main power flow—showing whether electricity is currently being used from the House, Battery, or Grid—allowing users to understand their status in one second.
-* **Immediate Savings:** \
-  Displays the amount of money saved by using solar power instead of grid electricity directly on the dashboard to motivate the user.
-* **Insights Card:** \
-  Provides optimization suggestions like "Store solar energy for evening use" to improve overall efficiency.
+* Simplify complex technical data into financial values and easily digestible information.
+* Develop a modern, data-driven, and premium interface.
+* Enable users to track real-time savings and system health effortlessly.
 
-### B. Solar Production: Production Details
+<figure><img src="../../.gitbook/assets/Farm_owner_looking_202604101433.jpeg" alt=""><figcaption></figcaption></figure>
 
-* **Energy Distribution Chart:** \
-  Uses a donut chart to show the percentage distribution of solar energy across different usage destinations (Home, Battery, and Grid).
-* **Flexible Time Filtering:** \
-  Allows users to switch between different time periods (Today, Week, Month, Year) to track long-term trends.
 
-### C. Saving: Financial Analysis
-
-* **Cost Comparison:** \
-  Compares electricity costs between two scenarios: using only grid electricity versus using solar energy.
-* **Electricity Savings Trend:** \
-  A line graph helps users visualize how their savings change and grow over time.
-
-### D. Alerts & Support
-
-* **Proactive Notifications:** \
-  The Alerts screen displays the operating status of the system, including warnings like "Battery Low," "Grid Outage," or "Low Solar Production" so users can take timely action.
-* **Quick Guidance:** \
-  The Support screen allows users to access help through Live Chat, Call Support, or a dedicated Help Center (FAQ, Troubleshooting).
 
 ***
 
-## 4. Visual Analysis (Visual Hierarchy)
+## 3.  Target Audience
 
-The design employs a modern visual language to build trust and professional appeal:
+<figure><img src="../../.gitbook/assets/Farm_owner_in_202604101444 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-* **Color Palette (Dark Mode)**: \
-  Utilizes a dark background to reduce eye strain and make colorful data charts pop.
-* **Amber Yellow:** \
-  Used for solar production indicators and primary energy metrics.
-* **Green:** \
-  Represents savings and eco-friendly indicators.
-* **Typography:** \
-  Clear visual hierarchy where key data (such as "4.8 kW" or "$3.40") is displayed in bold, large fonts to draw immediate attention to the most important numbers.
-* **Layout:** \
-  A card-based layout groups related information logically, making the interface easy to navigate and scale across different device sizes.
+**Primary Users**: \
+Farm owners and business owners.
+
+**Key Characteristics**: \
+Users with limited technical knowledge who prioritize financial optimization, reliability, and simple data presentation.<br>
 
 ***
 
-## 5. Conclusion
+## 4. Design Solutions
 
-This project goes beyond mere data display to create a smart energy assistant. By simplifying complex energy flows and providing actionable insights, the app empowers users to manage their resources confidently and transition toward a sustainable green lifestyle<br>
+The design strategy centers on a modern, data-driven, and premium interface that simplifies complex technical information into meaningful value for users.
+
+### A. Home Screen
+
+<figure><img src="../../.gitbook/assets/Home (4).png" alt=""><figcaption></figcaption></figure>
+
+The goal of this screen is to provide an immediate snapshot of the system's health and financial performance.
+
+**Energy Flow Visualization**: A dynamic diagram showing the real-time power flow between Solar → Battery → House → Grid, allowing users to understand their energy ecosystem at a glance.\
+\
+**Real-time Metrics**: High-contrast cards display current solar power (kW) and battery percentage to ensure constant awareness.\
+\
+**Financial Impact**: The screen prominently features the daily money saved, translating technical output into tangible economic value.\
+\
+**Actionable Insights**: Displays smart suggestions, such as prioritizing battery charging before an approaching storm, to help users optimize energy use proactively.
+
+### B. Solar Production Screen
+
+<figure><img src="../../.gitbook/assets/Solar Production.png" alt=""><figcaption></figcaption></figure>
+
+This screen breaks down production data into easy-to-digest visual formats for non-technical users.
+
+**Multi-period Summaries**: Users can toggle between Daily, Monthly, and Yearly views to track production history.\
+\
+**Production** **Charts**: Intuitive graphs visualize energy trends throughout the day, highlighting peak production hours.\
+\
+**Energy** **Distribution**: A breakdown (often via donut charts) shows the percentage of solar energy consumed by the home, stored in the battery, or exported back to the grid.
+
+### C. Saving Screen
+
+<figure><img src="../../.gitbook/assets/Saving.png" alt=""><figcaption></figcaption></figure>
+
+As a core feature, this screen focuses on the user's primary concern: economic benefit.
+
+**Cost Comparison**: A visual contrast between "Using only grid electricity" and "Using solar energy" to highlight the return on investment and monthly savings.\
+\
+**Electricity Savings Trend**: A historical graph that tracks financial optimization over time, reinforcing the long-term value of the system.\
+\
+**Environmental Impact**: Translates savings into relatable metrics, such as CO₂ reduction, to align with the brand's sustainable mission.<br>
+
+### D. Alerts Screen
+
+<figure><img src="../../.gitbook/assets/Alerts.png" alt=""><figcaption></figcaption></figure>
+
+This screen ensures system reliability through simplified status notifications.
+
+**Status Categorizatio**n: Alerts are clearly classified into categories like Low Battery, Grid Outage, Maintenance Reminders, or System Updates.
+
+**Visual Clarity**: Uses the brand's high-contrast palette (Yellow #FFC810 and Black #212121) to make critical warnings stand out immediately.
+
+**Plain Language**: Translates complex technical faults into simple, actionable information for users with limited technical knowledge.<br>
+
+## E. Support Screen
+
+<figure><img src="../../.gitbook/assets/Support.png" alt=""><figcaption></figcaption></figure>
+
+The final step in the user flow ensures users feel supported and builds trust in the brand.
+
+**Quick Help**: One-tap access to a Hotline, Messaging, or Email for immediate consultation.
+
+**Help Center**: A categorized library for Troubleshooting, Reporting Issues, and checking System Status, empowering users to resolve simple queries independently<br>
+
+***
+
+## 5. Visual Identity
+
+<figure><img src="../../.gitbook/assets/Color.png" alt=""><figcaption></figcaption></figure>
+
+The design adheres to a modern and trustworthy brand direction:
+
+**Primary Colors**: \
+Yellow (#FFC810): Representing solar energy, power, and optimism.\
+Black (#212121): Representing stability, technology, and trust.
+
+**Visual Style**: A high-contrast Dark Mode interface was implemented to enhance the readability of data charts and maintain a premium tech-driven feel.<br>
+
+***
+
+## 6. Outcome
+
+{% embed url="https://www.figma.com/proto/cdwLBIHHK5iUFCuKrRiw98/Solar-System-App--Preview-?node-id=1-1625&viewport=556%2C401%2C0.16&t=refekz7LYvqpieTY-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1625&page-id=0%3A1\" %}
+
+The final high-fidelity UI solution delivers:
+
+**Strong Visual Hierarchy**: Ensuring the most critical data is noticed first.
+
+**Intuitive** **Layout**: Logical card-based components that prevent data overload.
+
+**Seamless** **Experience**: A user journey that successfully bridges the gap between technical monitoring and financial management<br>
