@@ -10,13 +10,6 @@
   * [Swan Chain](design/branding/swan-chain.md)
   * [Swan Chain Old](design/branding/swan-chain-old.md)
   * [Dakai](design/branding/dakai.md)
-* [Dashboard](design/dashboard.md)
-* [Mobile App](design/mobile-app.md)
-* [Mobile App 2](design/mobile-app-2/README.md)
-  * [Solar System App](design/mobile-app-2/solar-system-app.md)
-  * [TM Wallet](design/mobile-app-2/tm-wallet.md)
-* [Landing Page](design/landing-page.md)
-* [Design Challege](design/design-challege.md)
 * [Web Design](design/web-design/README.md)
   * [Mission 3: Community Engagement for Web3 Project](design/web-design/mission-3-community-engagement-for-web3-project.md)
   * [Increase User Engagement - Social Campaign Mission](design/web-design/increase-user-engagement-social-campaign-mission.md)
@@ -35,6 +28,14 @@
   * [Design a Podcast App for Vietnamese User](design/mobile-app-design/design-a-podcast-app-for-vietnamese-user.md)
   * [Compost Coin: A recycling app that rewards users with cryptocurrency](design/mobile-app-design/compost-coin-a-recycling-app-that-rewards-users-with-cryptocurrency.md)
   * [The Solution App: A Service App](design/mobile-app-design/the-solution-app-a-service-app.md)
+  * [Solar System App](design/mobile-app-design/solar-system-app.md)
+* [Landing Page](design/landing-page.md)
+* [Design Challege](design/design-challege.md)
+* [Dashboard](design/dashboard.md)
+* [Mobile App 2](design/mobile-app-2/README.md)
+  * [Find checked Baggage at the Airport](design/mobile-app-2/find-checked-baggage-at-the-airport.md)
+  * [Trust Machine Wallet - Crypto Asset Management](design/mobile-app-2/trust-machine-wallet-crypto-asset-management.md)
+* [Mobile App](design/mobile-app.md)
 
 ## Article
 

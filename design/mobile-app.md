@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mobile App
 
 ## FPT Camera
