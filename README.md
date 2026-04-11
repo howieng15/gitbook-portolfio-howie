@@ -3,7 +3,7 @@ description: A Multidisciplinary Designer.
 icon: memo
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/VpXZgGEuV1TU5ApIXcdu
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/
 ---
 
 # About
@@ -30,7 +30,221 @@ metaLinks:
 * **Design Systems** – Built and maintained design systems for efficiency and visual consistency.
 * **Cross-functional Collaboration** – Worked closely with developers, marketers, and product teams to align design with business goals.
 * **Rebranding & Growth** – Led rebranding efforts, enhancing brand recognition and engagement.
-* **Gaming Industry** – Extensive experience in game UI/UX, 2D/3D design, and product development, contributing to millions of downloads and revenue.
+* **Gaming Industry** – Extensive experience in game UI/UX, 2D/3D design, and product development, contributing to millions of downloads and revenue.<br>
+
+***
+
+## **Experience**
+
+#### **Nebula Block**
+
+_Nebula Block provides **cloud computing** and **GPU resources**._
+
+**Company type:** _Service-based company_
+
+**Company size:** _15 - 20_
+
+**Position:** _UI/UX, Marketing Designer_
+
+**Duration:** _2024 - 2025_
+
+**Website:** [_nebulablock.com_](https://nebulablock.com)
+
+**Responsibilities:**
+
+* Designed and developed **marketing and web assets** for **Web3 products**, including landing pages, dashboards, and campaign visuals.
+* Collaborated with **product, marketing, and blockchain teams** to translate complex technical concepts into **user-friendly designs**.
+* Supported **branding and visual identity** across multiple touchpoints: website, social media, pitch decks, and community materials.
+* Worked closely with **developers** to ensure **design feasibility, responsiveness, and performance optimization**.
+* Maintained **design consistency** while adapting assets for different platforms and global audiences.
+
+**Achievements:**
+
+* Successfully delivered **marketing campaigns** that improved **user engagement and brand visibility**.
+* Designed **high-converting landing pages** supporting **user acquisition and project launches**.
+
+#### **Dakai**
+
+_Dakai delivers **high-quality software solutions**, combining **modern technology** with **traditional development**. They help **startups succeed** and build **strong client relationships**._
+
+**Company type:** _Software outsourcing_
+
+**Company size:** _15 - 20_
+
+**Position:** _UI/UX, Graphic Designer_
+
+**Duration:** _2021 - 2023_
+
+**Website:** [_dakai.io_](https://dakai.io/)
+
+**Clients:** _DealTitan,_ [_Topic Ranker_](https://topicranker.com/)_, Qarik, Cartesi, CompostCoin, DropToken, TM Wallet, Vercel, Solana, Quillytics,..._
+
+**Responsibilities:**
+
+* Worked with **clients, managers, designers**, and **front-end developers** to turn **project requirements** and **business goals** into polished **user interfaces**.
+* Designed **user-friendly** and **visually appealing interfaces** for **websites** and **mobile applications**.
+* Turned **wireframes** and **user flows** into engaging **visual designs** that meet **user needs** and **business objectives**.
+* Created **interactive prototypes** and **mock-ups** to share **design ideas** and collect feedback from **stakeholders**.
+* Collaborated with **development** and **product teams** to ensure designs were **implemented successfully**.
+* Gathered and used **user feedback** to **improve** and **refine designs** continuously.
+* Built and maintained **design systems**, **style guides**, and **brand assets** to ensure **consistency** for each project.
+* **Rebranded** [**websites**](design/branding/dakai.md)**,** [**logos**](multimedia/logo.md)**,** [**presentations**](multimedia/deck.md)**,** [**brand books**](design/branding/dakai.md#brand-guidelines), and [**internal tools**](design/branding/dakai.md#dashboard).
+
+**Achievements:**
+
+* Delivered **20+ polished user interfaces** for **websites** and **mobile apps**, improving **user experience** and meeting **client goals**.
+* Built the [**design system**](article/design-system.md) to keep projects consistent and saved **20% of design time**.<br>
+
+#### **FPT Telecom**
+
+_A product of **FPT Telecom**, **FPT Camera** offers a **smart home security**_ _**solution** by developing an intuitive app that integrates with **smart cameras** for **seamless home monitoring**._
+
+**Company type:** _Product_
+
+**Team size:** _40 - 50_
+
+**Position:** _UI/UX Designer_
+
+**Duration:** _2020 - 2021_
+
+**Projects:** [_FPT Camera_](https://fpt-camera.com.vn/)_, FPT TV Playbox Camera_
+
+**Responsibilities:**
+
+* **Developed** and **expanded user flows** to create **intuitive** and **functional User Interfaces**.
+* **Communicated** with **product managers** and **business analysts** to ensure alignment between **project requirements** and **UI design objectives**.
+* Participated in **brainstorming** and **strategy sessions** with **developers** and **managers** to define methods for achieving **project goals**.
+* **Collaborated** with **developers** to implement **UI features** and integrate **technical design guidelines** into the final product.
+* Designed **site maps**, **user flows**, **wireframes**, and **mockups** based on **proven methodologies**, **stakeholder feedback**, and **user needs**.
+
+**Achievements:**
+
+* Successfully **improved the user experience** by refining and expanding **user flows**, leading to more **intuitive interfaces**.
+* Contributed to **cross-functional collaboration** that resulted in the **seamless integration** of **UI features**, meeting both **business** and **customer expectations**.<br>
+
+#### **Waves8**
+
+_A **startup company** that focus create an app listening to **Podcast** for **Vietnamese people**._
+
+**Company type:** _Startup_
+
+**Team size:** _15 - 20_
+
+**Position:** _UI/UX/Graphic Designer_
+
+**Duration:** _2019_
+
+**Project:** [_Waves_](./#waves)
+
+**Responsibilities:**
+
+* **Receiving requirements** with a list of features, **collaborating** with the team to evaluate suitable functionalities.
+* **Conducting research** and understanding **user needs** through **interviews**.
+* Producing design such as **Sitemap, Wireframes, Mockups, Prototypes** to gather feedback from both **internal and external users**.
+* **Released an MVP version** with the most basic functions, **attracted users**, and received **positive feedback**.
+* **Multitasking in design** such as **Mobile, Web, Graphics,** and other **Marketing collateral**.
+
+**Achievements:**
+
+* After the app's release, it received a [**$1.2 million investment** ](https://www.techinasia.com/waves-receives-1m-seed-funding)in the **seed round**.
+
+#### **Shinhan Finance**
+
+_Design **iShinhan** app, enables users to apply for **loans**, **manage repayments**, and access various **financial services** conveniently._
+
+**Company type:** _Consumer finance_
+
+**Position:** _UI Designer_
+
+**Duration:** _2019_
+
+**Project:** [_iShinhan_](./#shinhan-finance)
+
+**Responsibilities:**
+
+* **Translated specifications** into both **mobile** and **desktop web versions**, ensuring a **seamless** and **intuitive user experience** across platforms.
+* **Communicated effectively** with **head managers** and **customer experience teams** to align **project requirements** and **business objectives** with polished, **user-centered interfaces.**
+* Collaborated closely with **developers** to integrate **UI features** while adhering to **technical design guidelines** and maintaining high **usability standards.**
+
+**Achievements:**
+
+* Successfully completed all **design sprints** on time, delivering **user-friendly designs** that met **project milestones** and exceeded **client expectations.**
+
+#### **Exoty**
+
+_Exoty appears to be a game studio that specializes in developing **multiplayer card and board games**, primarily targeting the **French market** and other European audiences._
+
+**Company type:** _Game product_
+
+**Company size:** _15 - 20_
+
+**Position:** _UI Designer_
+
+**Duration:** _2015 - 2018_
+
+**Website:** [_exoty.com_](https://exoty.com/)
+
+**Projects:** [_Exoty Belote_](./#exoty)_,_ [_Exoty Tarot_](./#exoty)
+
+**Responsibilities:**
+
+* Collaborated with **product managers** and team members to translate **user feedback** into practical and impactful features.
+* Worked closely with developers to ensure **UI features** were seamlessly integrated, adhering to **design standards** and **technical guidelines.**
+* Crafted **on-brand creative solutions** to align with marketing objectives and merchant goals.
+* Ensured **design consistency** across all deliverables by following the brand’s **visual identity** and **style guidelines.**
+* Effectively managed and prioritized tasks to meet **tight deadlines** while maintaining **high-quality design standards.**
+
+**Achievements:**
+
+* Two games achieved significant success, reached [**1 million downloads**](design/mobile-app-design/exoty-multiplayer-card-games.md#rating-on-google-play-apple-store) on **Google Play** and the **Apple App Store**.
+* Received positive [**user reviews**](design/mobile-app-design/exoty-multiplayer-card-games.md#rating-on-google-play-apple-store) with an average rating of **4.5+** on both platforms, demonstrating high **user satisfaction**.
+* The company reached **$1 million in game revenue** in [**4 years and half**](https://www.linkedin.com/in/hoangdangtran/).
+
+#### **Colorbox**
+
+_**Colorbox** is a prominent game development, create innovative casual games for mobile devices._&#x20;
+
+**Company type:** _Game product_
+
+**Company size:** _15 - 20_
+
+**Position:** _2D Artist_
+
+**Duration:** _2012 - 2014_
+
+**Responsibilities:**
+
+* Designed and created **2D graphics** for games, including **characters, backgrounds, objects, animations, effects,** and **user interfaces.**
+* Collaborated closely with the **product development team**, including **game designers, developers, project managers,** and **artists,** to ensure alignment with project goals and creative vision.
+
+**Achievements:**
+
+* Contributed to the development of multiple **mobile games,** with several achieving **notable success** in terms of downloads, user engagement, and market recognition.
+* Understand all stages of **mobile game development**, including **character creation**, **background design**, **object modeling**, **animation**, and overall **game mechanics**.<br>
+
+#### **DWV**
+
+_Specializing in **software, games, online games, CG content, amusement arcade games, films, VFX,** and **IT projects**, primarily catering to the **Japanese market.**_
+
+**Company type:** _Game outsourcing_
+
+**Company size:** _75 - 100_
+
+**Position:** _3D Artist_
+
+**Duration:** _2010 - 2012_
+
+_**Website:**_ [_dworks-vn.com_](https://dworks-vn.com/)
+
+**Responsibilities:**
+
+* Designed and developed **3D assets** for games, including **characters, environments, objects,** and **animations.**
+* Collaborated closely with the **Lead Artist** to maintain high standards of quality and ensure timely project delivery.
+
+**Achievements:**
+
+* Contributed to the successful development of **several console games**, some of which achieved **notable commercial and critical success.**
+* Understand all stages of **3D game development**, including **character creation**, **modeling**, **environment background**, **animation**, and **rendering**.
 
 
 
