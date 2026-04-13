@@ -2,7 +2,7 @@
 description: The process how do I design a logo.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/XJzFHm30gKc9Y9N0aY7f
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/logo
 ---
 
 # Logo

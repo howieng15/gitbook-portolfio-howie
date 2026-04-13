@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/RwNFjZtADTZM0v4YK794
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/mobile-app-design/compost-coin-a-recycling-app-that-rewards-users-with-cryptocurrency
 ---
 
 # Compost Coin: A recycling app that rewards users with cryptocurrency

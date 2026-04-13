@@ -5,7 +5,8 @@ description: >-
   affordably.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/ccJ2pbEqj6kdInJBcRrx
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/branding/nebula-block
 ---
 
 # Nebula Block

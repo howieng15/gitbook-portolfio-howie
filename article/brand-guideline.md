@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/tYt5WF4AqvMCdn9cx6sp
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-document/how-i-create-a-brand-guideline
 ---
 
 # Brand Guideline

@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/GqL8PFfwrCl5z2iPqjeA
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/mobile-app-design/trust-machines-wallet-crypto-asset-management
 ---
 
 # Trust Machines Wallet: Crypto Asset Management

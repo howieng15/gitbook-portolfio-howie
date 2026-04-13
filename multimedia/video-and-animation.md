@@ -2,7 +2,8 @@
 description: The process how do I design a video or animation.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/nnnY8gvCE5NuAiB3cn1A
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/video-and-animation
 ---
 
 # Video & Animation

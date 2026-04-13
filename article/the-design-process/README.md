@@ -4,7 +4,8 @@ description: >-
   clarity and alignment at every step. Here’s my approach:
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/HLsy1Rbo7s97XT3hqHYR
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-process/the-design-process
 ---
 
 # The Design Process

@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/QG2Lg65cA2J1K9QYPjm9
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/landing-page
 ---
 
 # Landing Page

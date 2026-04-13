@@ -2,7 +2,8 @@
 description: I use my own fundamental design system that can start for any project.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/HkrtCWvmWRVPL19yjiIW
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-document/how-i-maintain-the-design-system
 ---
 
 # Design System

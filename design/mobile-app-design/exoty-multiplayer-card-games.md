@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/WeuNbJopmZDRnBZkElI2
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/mobile-app-design/exoty-multiplayer-card-games
 ---
 
 # Exoty: Multiplayer Card Games

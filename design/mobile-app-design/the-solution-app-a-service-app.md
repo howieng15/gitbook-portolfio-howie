@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/GB5clazbjMpDxJMWO9p0
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/mobile-app-design/the-solution-app-a-service-app
 ---
 
 # The Solution App: A Service App

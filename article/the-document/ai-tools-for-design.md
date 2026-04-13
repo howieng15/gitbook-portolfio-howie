@@ -4,7 +4,8 @@ description: >-
   design work.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/1c5JfMr8hirVDCCuDWic
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-document/ai-tools-for-design
 ---
 
 # AI Tools for Design

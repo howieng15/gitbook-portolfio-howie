@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/ymHB9aSLXG4nPohYM5jE
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/ux-case-study/design-a-solution-to-improve-the-recruitment-process
 ---
 
 # Design a Solution to Improve the Recruitment Process

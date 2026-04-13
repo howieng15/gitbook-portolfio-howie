@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/ZgfWc7h5NlRUw2F0wr1E
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design
 ---
 
 # Web Design

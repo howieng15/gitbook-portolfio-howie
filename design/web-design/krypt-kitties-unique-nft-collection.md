@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/Caf0D0goyfHB2vQYb079
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/krypt-kitties-unique-nft-collection
 ---
 
 # Krypt Kitties: unique NFT collection

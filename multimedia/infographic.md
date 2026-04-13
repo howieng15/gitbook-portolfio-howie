@@ -2,7 +2,7 @@
 description: Showcase all of my infographic work
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/zyMconV4DdrkIcZKXnAz
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/infographic
 ---
 
 # Infographic

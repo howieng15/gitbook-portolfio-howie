@@ -4,7 +4,7 @@ description: >-
   pioneers.Push your industry forward. Redefine what's cutting edge.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/KmTRknurXMTl6LFAZWhm
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/branding/dakai
 ---
 
 # Dakai

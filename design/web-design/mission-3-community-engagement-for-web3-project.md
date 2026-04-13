@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/YAi67XJvutf3IR0TQ8eT
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/mission-3-community-engagement-for-web3-project
 ---
 
 # Mission 3: Community Engagement for Web3 Project

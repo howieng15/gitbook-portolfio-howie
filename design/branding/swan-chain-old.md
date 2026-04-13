@@ -5,7 +5,8 @@ description: >-
 hidden: true
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/gzkRG0vUmpMgrK4nycTw
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/branding/swan-chain-old
 ---
 
 # Swan Chain Old

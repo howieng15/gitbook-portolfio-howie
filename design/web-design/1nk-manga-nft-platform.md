@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/HjCRVSgQ1UIg3qHfmrfZ
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/1nk-manga-nft-platform
 ---
 
 # 1NK: Manga NFT Platform

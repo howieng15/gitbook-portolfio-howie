@@ -2,7 +2,7 @@
 description: The process how do I modeling a 3D object.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/J5LxqWaQwOVWnkok2Qv4
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/3d-design
 ---
 
 # 3D Design

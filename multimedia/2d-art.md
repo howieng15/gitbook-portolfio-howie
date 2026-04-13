@@ -2,7 +2,7 @@
 description: A few 2D Art Concept Game.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/SWWl0aeJJJ6bsgeBkMsk
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/2d-art
 ---
 
 # 2D Art

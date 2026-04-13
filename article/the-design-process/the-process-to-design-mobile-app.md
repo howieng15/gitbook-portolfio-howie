@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/ShAFkz7FCD80dM8E9br6
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-process/the-process-to-design-mobile-app
 ---
 
 # The Process to Design Mobile App

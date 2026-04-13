@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/T0v8FX4w7YVf9PkE4Ohr
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/mobile-app-design/fpt-camera-app
 ---
 
 # FPT Camera App

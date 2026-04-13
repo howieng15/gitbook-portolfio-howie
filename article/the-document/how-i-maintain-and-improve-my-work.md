@@ -4,7 +4,8 @@ description: >-
   by search process for myself and the organization.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/QiOXynfnkMb84xgPKsOs
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-document/how-i-maintain-and-improve-my-work
 ---
 
 # How I Maintain and Improve My Work

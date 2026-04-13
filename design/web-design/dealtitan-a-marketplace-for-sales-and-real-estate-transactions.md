@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/bgfUYoqKBklg3Q1D140o
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/dealtitan-a-marketplace-for-sales-and-real-estate-transactions
 ---
 
 # Dealtitan: A Marketplace for Sales and Real Estate Transactions

@@ -2,7 +2,7 @@
 description: The process how do I design a deck from a request.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/cBIjNGJV87fTkfSjrpIt
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/deck
 ---
 
 # Deck

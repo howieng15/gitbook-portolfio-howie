@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/1f6KDMBRPD3nS07F9Py6
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/ai-generated-images
 ---
 
 # AI Generated Images

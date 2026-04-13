@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/AwvqXdmT4i1MlYalJXue
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-process/the-process-to-design-dashboard
 ---
 
 # The Process to Design Dashboard

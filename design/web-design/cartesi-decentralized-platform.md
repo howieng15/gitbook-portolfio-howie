@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/n0thLE2utYLn4znob9xD
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/cartesi-decentralized-platform
 ---
 
 # Cartesi: Decentralized Platform

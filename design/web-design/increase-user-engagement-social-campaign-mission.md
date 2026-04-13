@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/4oouxnchXIZP9SQVde2m
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/increase-user-engagement-social-campaign-mission
 ---
 
 # Increase User Engagement - Social Campaign Mission

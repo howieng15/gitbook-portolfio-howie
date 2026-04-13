@@ -2,7 +2,8 @@
 description: Marketing materials for both digital and print.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/4nN8WGrDXK05lgwzHFiQ
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/marketing-materials
 ---
 
 # Marketing Materials

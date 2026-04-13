@@ -2,7 +2,8 @@
 hidden: true
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/4rk5SDjDsjlwADMwHhf8
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/ux-case-study/an-app-to-help-with-short-sleep
 ---
 
 # An App to Help with Short Sleep

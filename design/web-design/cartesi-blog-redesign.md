@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/AtMwHrmKe6DF67r35LjU
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/cartesi-blog-redesign
 ---
 
 # Cartesi: Blog Redesign

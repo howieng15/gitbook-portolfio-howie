@@ -5,7 +5,7 @@ description: >-
   development.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/zmAGCnhkbW1fNICGezUC
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/branding/swan-chain
 ---
 
 # Swan Chain

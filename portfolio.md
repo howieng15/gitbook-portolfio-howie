@@ -4,7 +4,7 @@ hidden: true
 icon: briefcase
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/4sUtTCSfNgcFjQsscTfb
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/portfolio
 ---
 
 # Portfolio

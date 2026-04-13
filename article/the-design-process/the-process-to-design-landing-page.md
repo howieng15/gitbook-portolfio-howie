@@ -2,7 +2,8 @@
 description: The process how do I design a landing page for any project.
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/aVQqnEnWa6UV1MnwKXuH
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/the-process/the-process-to-design-landing-page
 ---
 
 # The Process to Design Landing Page

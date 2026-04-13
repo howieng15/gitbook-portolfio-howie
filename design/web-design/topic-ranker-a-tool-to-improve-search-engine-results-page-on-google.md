@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/kL7n5BX1YmjHd6F8Rc1j
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/design/web-design/topic-ranker-a-tool-to-improve-search-engine-results-page-on-google
 ---
 
 # Topic Ranker: A Tool to Improve Search Engine Results Page on Google

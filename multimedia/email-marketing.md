@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/q6JgdJKh4ahN5PzSkQIY
+    - https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/multimedia/email-marketing
 ---
 
 # Email Marketing

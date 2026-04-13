@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - /broken/spaces/Q1wr0S5TkpyomM2jKPhF/pages/9TnFCmcqZTq69kFMSGkr
+    - >-
+      https://app.gitbook.com/s/Q1wr0S5TkpyomM2jKPhF/article/ux-case-study/an-app-to-help-find-checked-baggage
 ---
 
 # Design an App to help Passengers find Checked Baggage at the Airport
