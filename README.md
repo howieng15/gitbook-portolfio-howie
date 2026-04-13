@@ -36,19 +36,78 @@ metaLinks:
 
 ## **Experience**
 
-#### **Nebula Block**
+#### WeGrowth
 
-_Nebula Block provides **cloud computing** and **GPU resources**._
+_Digital growth & performance marketing agency_
+
+**Company type:** _Service-based company_
+
+**Company size:** _5 - 10_
+
+**Position:** _Web, Marketing Designer_
+
+**Duration:** _2026_
+
+**Website:** [_wegrowth.com_](https://www.wegrowth.com/)
+
+**Responsibilities:**
+
+* Designed and developed **marketing assets** for **multi-channel campaigns**, including **social media, ads, landing pages, and email marketing**.
+* Collaborated with **marketing and performance teams** to create visuals optimized for **conversion** and **user engagement**.
+* Translated **marketing strategies** and **campaign goals** into **high-impact visual designs**.
+* Designed **landing pages** and **UI layouts** to support **lead generation** and **conversion optimization**.
+* Worked closely with **clients** and **internal teams** to align design output with **brand identity** and **business objectives**.
+* Conducted **A/B testing** and optimized designs based on **performance data**.
+* Ensured **visual consistency** across branding systems for multiple clients.
+* Managed **multiple projects** simultaneously while maintaining **quality** and meeting **tight deadlines**.
+
+**Achievements:**
+
+* Designed **high-converting landing pages** that improved **lead generation** and overall **campaign performance**.
+* Delivered **marketing assets** for multiple clients, enhancing **brand visibility** and **consistency**.
+* Supported cross-functional teams in launching campaigns **on time** with **high-quality outputs**.
+
+#### **Outshare**
+
+_Influencer **Marketing Platform** for **Brands**_
+
+**Company type:** _Product-based Startup (SaaS)_
+
+**Company size:** _5 - 10_
+
+**Position:** _UI/UX, Marketing Designer_
+
+**Duration:** _2025_
+
+**Website:** [_outshare.io_](https://www.outshare.io/)
+
+**Responsibilities:**
+
+* Partnered with the Founder to translate **business ideas** into **intuitive UI/UX** solutions.&#x20;
+* Designed the **end-to-end platform** experience including the **main dashboard**, **creator workflows**, and **campaign management** tools.&#x20;
+* Developed wireframes and **interactive prototypes** to test core features.&#x20;
+* Designed the **marketing assets** to support the product launch.&#x20;
+* Built a **scalable design system** to maintain consistency.&#x20;
+* Collaborated with developers to ensure a **responsive** and **pixel-perfect** implementation.
+
+**Achievements:**
+
+* Led the design of the **product dashboard**, **improving user experience** and **reducing friction** in content creation workflows.
+* Delivered **product** and **marketing visuals** that **enhanced brand identity**.
+
+#### **Nebula Block & Swan Chain**
+
+_Nebula Block and Swan Chain provides **cloud computing** and **GPU resources**._
 
 **Company type:** _Service-based company_
 
 **Company size:** _15 - 20_
 
-**Position:** _UI/UX, Marketing Designer_
+**Position:** _Web, Marketing Designer_
 
 **Duration:** _2024 - 2025_
 
-**Website:** [_nebulablock.com_](https://nebulablock.com)
+**Website:** [_nebulablock.com_](https://nebulablock.com)_,_ [_swanchain.io_](https://www.swanchain.io/)
 
 **Responsibilities:**
 
@@ -71,13 +130,13 @@ _Dakai delivers **high-quality software solutions**, combining **modern technolo
 
 **Company size:** _15 - 20_
 
-**Position:** _UI/UX, Graphic Designer_
+**Position:** _Web/App, Marketing Designer_
 
 **Duration:** _2021 - 2023_
 
 **Website:** [_dakai.io_](https://dakai.io/)
 
-**Clients:** _DealTitan,_ [_Topic Ranker_](https://topicranker.com/)_, Qarik, Cartesi, CompostCoin, DropToken, TM Wallet, Vercel, Solana, Quillytics,..._
+**Projects:** _DealTitan,_ [_Topic Ranker_](https://topicranker.com/)_, Qarik, Cartesi, CompostCoin, DropToken, TM Wallet, Vercel, Solana, Quillytics,..._
 
 **Responsibilities:**
 
