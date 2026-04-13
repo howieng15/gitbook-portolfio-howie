@@ -79,7 +79,7 @@ _Influencer **Marketing Platform** for **Brands**_
 
 **Duration:** _2025_
 
-**Website:** [_outshare.io_](https://www.outshare.io/)
+**Website:** [_outshare.io_](https://www.outshare.io/)_,_ [_socialtellers.co_](https://www.socialtellers.co/)
 
 **Responsibilities:**
 
