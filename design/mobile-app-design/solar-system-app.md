@@ -124,6 +124,8 @@ Black (#212121): Representing stability, technology, and trust.
 
 ## 6. Outcome
 
+{% embed url="https://www.figma.com/design/cdwLBIHHK5iUFCuKrRiw98/Solar-System-App--Preview-?m=auto&t=08SO7YAk2MO6ht1K-6" %}
+
 {% embed url="https://www.figma.com/proto/cdwLBIHHK5iUFCuKrRiw98/Solar-System-App--Preview-?node-id=1-1625&viewport=556%2C401%2C0.16&t=refekz7LYvqpieTY-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1625&page-id=0%3A1\" %}
 
 The final high-fidelity UI solution delivers:
