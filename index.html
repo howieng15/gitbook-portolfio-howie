@@ -1,25 +1,83 @@
 <!DOCTYPE html>
-<html>
+<html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/marked/lib/marked.css">
-  <style>
-    body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
-    img { max-width: 100%; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Howie | Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #0f172a; color: #f8fafc; }
+        .gradient-text { background: linear-gradient(90deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+    </style>
 </head>
-<body>
-  <div id="content">Đang tải nội dung...</div>
+<body class="leading-relaxed antialiased">
 
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    // Lấy nội dung từ file portfolio.md của bạn
-    fetch('portfolio.md')
-      .then(response => response.text())
-      .then(text => {
-        document.getElementById('content').innerHTML = marked.parse(text);
-      });
-  </script>
+    <!-- Header -->
+    <nav class="fixed w-full z-50 glass">
+        <div class="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
+            <span class="text-xl font-bold gradient-text leading-tight">HOWIE.</span>
+            <div class="space-x-6 text-sm font-medium">
+                <a href="#about" class="hover:text-sky-400 transition">Giới thiệu</a>
+                <a href="#projects" class="hover:text-sky-400 transition">Dự án</a>
+                <a href="https://howieng15.gitbook.io/" target="_blank" class="bg-sky-500 px-4 py-2 rounded-full hover:bg-sky-600 transition">Đọc GitBook</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="pt-32 pb-20 px-6">
+        <div class="max-w-5xl mx-auto text-center">
+            <h1 class="text-5xl md:text-7xl font-extrabold mb-6">Xin chào, mình là <span class="gradient-text">Howie</span></h1>
+            <p class="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto mb-10">
+                Mình biến kiến thức thành hệ thống. Đây là nơi mình lưu trữ toàn bộ hành trình học tập và các dự án thông qua GitBook.
+            </p>
+            <div class="flex justify-center gap-4">
+                <a href="#projects" class="px-8 py-3 bg-white text-slate-900 font-bold rounded-lg hover:bg-slate-200 transition">Xem dự án</a>
+                <a href="https://github.com/howieng15" class="px-8 py-3 glass rounded-lg hover:bg-slate-800 transition">GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section (Tự động hóa từ nội dung GitBook) -->
+    <section id="projects" class="py-20 px-6 bg-slate-900/50">
+        <div class="max-w-5xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 flex items-center gap-4">
+                <span class="h-px w-12 bg-sky-500"></span> Dự án tiêu biểu
+            </h2>
+            
+            <div class="grid md:grid-cols-2 gap-8">
+                <!-- Project Item 1 -->
+                <div class="glass p-8 rounded-2xl hover:translate-y-[-5px] transition-all duration-300">
+                    <div class="text-sky-400 mb-4"><i class="fa-solid fa-code text-2xl"></i></div>
+                    <h3 class="text-xl font-bold mb-2">Hệ thống Documentation</h3>
+                    <p class="text-slate-400 mb-4 text-sm leading-relaxed">Toàn bộ kiến thức về lập trình được mình đóng gói chi tiết trên GitBook.</p>
+                    <div class="flex gap-2 text-xs font-mono">
+                        <span class="bg-slate-800 px-2 py-1 rounded">Markdown</span>
+                        <span class="bg-slate-800 px-2 py-1 rounded">GitBook</span>
+                    </div>
+                </div>
+
+                <!-- Project Item 2 -->
+                <div class="glass p-8 rounded-2xl hover:translate-y-[-5px] transition-all duration-300">
+                    <div class="text-sky-400 mb-4"><i class="fa-solid fa-book text-2xl"></i></div>
+                    <h3 class="text-xl font-bold mb-2">Project Portfolio</h3>
+                    <p class="text-slate-400 mb-4 text-sm leading-relaxed">Xây dựng giao diện Portfolio từ dữ liệu Markdown của GitBook.</p>
+                    <div class="flex gap-2 text-xs font-mono">
+                        <span class="bg-slate-800 px-2 py-1 rounded">HTML</span>
+                        <span class="bg-slate-800 px-2 py-1 rounded">Tailwind</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-10 text-center text-slate-500 text-sm border-t border-white/5">
+        <p>© 2024 Howie. Được xây dựng dựa trên dữ liệu từ GitBook.</p>
+    </footer>
+
 </body>
 </html>
