@@ -42,8 +42,9 @@ This helps me get a clear overview of the project, understand the structure, and
 
 ## Review
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://drive.google.com/file/d/1S2Z8fTUaJlnryzQ9uM18OGKq2nd0uZZu/view?usp=sharing" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FKLkB3qUl3bnZtTfcQj08%2Fuploads%2FS5UbplqYeOPeDO3aR4mX%2FClear_Communication.mp4?alt=media&token=07b35dc8-9a95-4f22-8098-ebb8dca60b03" %}
 
 {% embed url="https://docs.google.com/presentation/d/1HiYP1Yfae7PQKYuaab5-lmZqpKNttHfQ/edit?slide=id.p2#slide=id.p2" %}
+
