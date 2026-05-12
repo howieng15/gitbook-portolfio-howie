@@ -66,7 +66,7 @@
 * [Prompt to Image](ai-skills/prompt-to-image.md)
 * [Prompt to Video](ai-skills/prompt-to-video.md)
 * [Prompt to Art](ai-skills/prompt-to-art.md)
-* [Image to Images (Other Styles)](ai-skills/image-to-images-other-styles.md)
+* [Image to Images](ai-skills/image-to-images.md)
 * [Prompt to Structure Prompt](ai-skills/prompt-to-structure-prompt.md)
 * [Prompt to Image Prompt](ai-skills/prompt-to-image-prompt.md)
 * [Prompt to Design](ai-skills/prompt-to-design.md)
