@@ -57,9 +57,8 @@ _Digital growth & performance marketing agency_
 * Translated **marketing strategies** and **campaign goals** into **high-impact visual designs**.
 * Designed **landing pages** and **UI layouts** to support **lead generation** and **conversion optimization**.
 * Worked closely with **clients** and **internal teams** to align design output with **brand identity** and **business objectives**.
-* Conducted **A/B testing** and optimized designs based on **performance data**.
 * Ensured **visual consistency** across branding systems for multiple clients.
-* Managed **multiple projects** simultaneously while maintaining **quality** and meeting **tight deadlines**.
+* Managed **multiple projects** simultaneously while maintaining **quality** and meeting **deadlines**.
 
 **Achievements:**
 
