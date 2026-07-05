@@ -12,7 +12,7 @@ metaLinks:
 
 <div align="left" data-full-width="false"><figure><img src=".gitbook/assets/styled-cartoon-art-1775119773012.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-**Name:** Hau (Howie) Nguyen\
+**Name:** Howie Nguyen\
 **Location:** Ho Chi Minh City, Vietnam
 
 
